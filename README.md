@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreaseguya
-- 👀 I’m interested in UX design, Cyber security and Artificial Intelligence
+- 👀 I’m interested in UX design, software engineering and Artificial Intelligence
 - 🌱 I’m currently working on my Masters Degree
 - 💞️ I’m looking for my next role
 - 📫 How to reach me ... email works best!
