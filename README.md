@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreaseguya
 - 👀 I’m interested in UX design, software engineering, data engineering and Artificial Intelligence
 - 🌱 I’m currently working on my Masters Degree
-- 💞️ I’m currently freelancing and work as an Business Systems Analyst 3 
+- 💞️ I’m currently causually freelancing and work full time as an Business Systems Analyst 3 
 - 📫 How to reach me ... email works best!
 
 <!---
